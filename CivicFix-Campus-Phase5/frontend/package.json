@@ -1,0 +1,9 @@
+{
+  "name": "civicfix-campus-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "test": "vitest run" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "latest", "leaflet": "latest", "react-leaflet": "latest", "recharts": "latest" },
+  "devDependencies": { "tailwindcss": "latest", "@tailwindcss/vite": "latest", "vitest": "latest", "jsdom": "latest" }
+}
